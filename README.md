@@ -1,5 +1,5 @@
 # README
-This is a Stack Overflow clone app completed by a 3-person team over the course of three days.
+This is a Stack Overflow clone app completed by a 3-person team comprised of [Allie McKay](https://github.com/devalexer), [Pranay Maharana](https://github.com/pmaharana), and [Hanna Bernard](https://github.com/Hann-B) over the course of three days.
 
 ### TECHNICAL INFORMATION:
 - Visual Studio 2017
